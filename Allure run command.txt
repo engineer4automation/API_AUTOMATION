@@ -1,0 +1,4 @@
+
+1. Pycharm: pytest --alluredir= %D:\PROJECTS\CPAP\API_AUTOMATION%
+ 
+2. CMD: allure serve D:\PROJECTS\CPAP\API_AUTOMATION\Reports OR run Generate Pytest Report.bat

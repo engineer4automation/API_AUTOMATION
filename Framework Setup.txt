@@ -1,0 +1,5 @@
+1. Make sure python interpreter is setup properly . Pycharm >> File >> Settings >> Python Interpreter
+
+2. Install the following packages (JSON, JSONPATH, REQUEST, PYTEST, ALLURE-PYTEST) if you dont see them in  Pycharm >> File >> Settings >> Python Interpreter OR  run pip install requirements.txt in your IDE Terminal to install from requirements.txt
+
+3. Download Allure from  https://repo.maven.apache.org/maven2/io/qameta/allure/allure-commandline/ and Add Allure >> bin folder path in System Path
